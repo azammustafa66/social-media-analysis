@@ -1,5 +1,5 @@
 
-# Modified Final Sentiment Analysis
+# Social Media Sentiment Analysis
 
 ## Overview
 
